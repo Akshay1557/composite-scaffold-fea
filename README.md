@@ -206,9 +206,9 @@ The project is currently ongoing.
 
 ### Completed / In Progress
 
-* [ ] Literature review
-* [ ] Material selection
-* [ ] PLA/PCL/HA composite preparation
+* [✓ ] Literature review
+* [ ✓] Material selection
+* [✓ ] PLA/PCL/HA composite preparation
 * [ ] 3D scaffold design
 * [ ] Finite Element Analysis
 * [ ] 3D printing and fabrication
