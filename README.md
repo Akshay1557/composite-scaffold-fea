@@ -185,40 +185,7 @@ The following software and tools are used in this project:
 
 ---
 
-## 📁 Proposed Repository Structure
 
-```text
-PLA-PCL-HA-Composite-Scaffold/
-│
-├── CAD_Models/
-│   ├── Scaffold_Design
-│   └── STL_Files
-│
-├── FEA_Analysis/
-│   ├── ANSYS_Files
-│   ├── Mesh
-│   └── Results
-│
-├── Fabrication/
-│   ├── 3D_Printing_Parameters
-│   └── Fabricated_Scaffold_Images
-│
-├── Experimental_Characterization/
-│   ├── Compression_Test
-│   ├── Porosity_Analysis
-│   └── Other_Characterization
-│
-├── Results/
-│   ├── Simulation_Results
-│   ├── Experimental_Results
-│   └── Comparison
-│
-├── Images/
-│
-└── README.md
-```
-
----
 
 ## 📈 Expected Outcomes
 
